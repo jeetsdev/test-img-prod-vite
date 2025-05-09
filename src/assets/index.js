@@ -1,0 +1,2 @@
+import testImg from "./Screenshot+2025-02-26+at+1.35.42 PM.png"
+export { testImg };
